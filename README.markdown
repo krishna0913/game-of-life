@@ -18,7 +18,6 @@ ping me when it is done
 mksck
 nj
 gcvv
-THIS IS TO TEST WHETHER IT IS WORKING OR NOT
   edited linennljleetha
 lekhadsc sdcn
 krishna
