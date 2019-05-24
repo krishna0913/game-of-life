@@ -1,9 +1,16 @@
+ HEAD
 Hi Thi is laxman edited line
+Hi Thi is Goapl
+>>>>>>> 572f87809643db6089b325d1f5bbe48b0f8a6116
 this is krishna
 cndjsncsdsang
 xskn
 sc,c
-
+This is edited by krishna 
+You can check with me 
+when You are free 
+ping me when it is done 
+9093198359
 mksck
 nj
 gcvv
