@@ -1,8 +1,6 @@
-Hi Thi is Lakshman 108
-tHis is a file
->>>>>>> 79944c9820f1bd76bdbe9359df3dede92b7f9991
+This is Lakshman 108
+Hi Thi is laxman edited line
 Hi Thi is Goapl
->>>>>>> 572f87809643db6089b325d1f5bbe48b0f8a6116
 this is krishna
 cndjsncsdsang
 xskn
@@ -15,7 +13,7 @@ ping me when it is done
 mksck
 nj
 gcvv
-  nnljleetha
+  edited linennljleetha
 lekhadsc sdcn
 krishna
 manager
