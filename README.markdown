@@ -13,7 +13,7 @@ e development with Jenkins, the popular Java-based open source tool that has rev
  - Integrate automated tests to verify builds, and set up code quality reporting
  - Establish effective team notification strategies e development with Jenkins, the popular Java-based open source tool that has revolutionized the way teams think about Continuous Integration (CI). This complete guide shows you how to automate your build, integration, release, a
 
-The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
+i have changed theis line.......The project is a simple multi-module Maven project. To build the whole project, just run `mvn install` from the root directory.
 
 ## Running the gamee development with Jenkins, the popular Java-based open source tool that has revolutionized the way teams think about Continuous Integration (CI). This complete guide shows you how to automate your build, integration, release, a
 
